@@ -6,7 +6,7 @@ This project is designed to detect **helmets and number plates** using **YOLO (Y
 
 ## 📂 Dataset and YOLO Files  
 🔗 **Download YOLO model and other necessary files from Google Drive:**  
-[📥 Click here to download](YOUR_GOOGLE_DRIVE_LINK_HERE)  
+[📥 Click here to download](https://drive.google.com/drive/folders/1smJ7-b29NhpSMhY0hi7ca3MP16Jf-b4Y?usp=sharing)  
 
 ---
 
